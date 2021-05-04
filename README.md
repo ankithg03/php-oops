@@ -2,6 +2,7 @@
 A collection of resources to learn object-oriented programming and related concepts for PHP developers.
 
 - [Tutorials](#tutorials)
+    - [PHP Basics (&#9658;)](https://github.com/ankithg03/php-oops/blob/main/CodeQuality_PHPBasic.md) - Basics Of Php
     - [OOP Fundamentals](#oop-fundamentals)
     - [OOP Advanced](#oop-advanced)
     - [Object Oriented Design](#object-oriented-design)
